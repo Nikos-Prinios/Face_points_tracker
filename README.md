@@ -4,7 +4,7 @@ VideoTrackingDashApp is an interactive Dash application designed for tracking an
 
 ## Application Interface
 
-![Face Points Tracker](face_points_tracker.png)
+![Face Points Tracker](fp_tracker.png)
 
 ## Installation
 
