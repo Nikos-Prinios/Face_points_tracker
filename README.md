@@ -1,6 +1,11 @@
 # Face_points_tracker
 
 VideoTrackingDashApp is an interactive Dash application designed for tracking and analyzing facial points in videos, recording the data into a CSV file. This tool utilizes computer vision to allow users to select specific points of interest on the face and measure distances, angles, and areas over time as they appear in the video.
+
+## Application Interface
+
+![Face Points Tracker](face_points_tracker.png)
+
 ## Installation
 
 Before running this application, you need to install the required Python libraries. You can install them using the following command:
