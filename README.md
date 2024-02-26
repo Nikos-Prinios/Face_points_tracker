@@ -53,6 +53,7 @@ The accuracy of tracking depends on the quality of the video and the clarity of 
 ## Contributing
 
 Feel free to fork this project and submit pull requests for additional features or improvements.
-License
+
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
