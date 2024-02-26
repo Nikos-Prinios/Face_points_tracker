@@ -31,13 +31,14 @@ Once the tracking is complete, you can find the CSV file with the tracking data 
 
 ## Customizing Tracking Points
 
-You can add a tracking point by clicking on 'Add a Point'.
+You can **add** a tracking point by clicking on 'Add a Point'.
 For each tracking point:
-1.     Use a single point to track a specific position on the face.
-2.     Use two points to measure the distance between two positions on the face.
-3.     Use three points to calculate the angle formed by these three positions on the face.
-4.     Use four points to calculate the area enclosed by these four positions on the face.
-Remove any tracking point by clicking the 'X' button next to it.
+* Use a single point to track a specific position on the face.
+* Use two points to measure the distance between two positions on the face.
+* Use three points to calculate the angle formed by these three positions on the face.
+* Use four points to calculate the area enclosed by these four positions on the face.
+
+**Remove** any tracking point by clicking the 'X' button next to it.
 
 ## Notes
 
